@@ -136,3 +136,7 @@ dmypy.json
 .venv
 irwa_env/
 data/
+!data/
+data/*
+!data/validation_labels.csv
+!data/fashion_products_dataset.json
